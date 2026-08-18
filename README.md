@@ -146,10 +146,10 @@ This project demonstrates practical knowledge of:
 
 ## 👩‍💻 Author
 
-**Vaishnavi22100**
+**DivyaSri040505**
 
 GitHub:
-https://github.com/Vaishnavi22100
+https://github.com/DivyaSri040505/
 
 ## 📄 License
 
